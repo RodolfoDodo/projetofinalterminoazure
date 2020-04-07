@@ -25,15 +25,15 @@ namespace TesteRodolfo.WebDrivers
             if (browser != null)
                 return browser;
 
-            var sessionConfigurationForChrome = new SessionConfiguration()
+            var sessionConfigurationForChromeHeadless = new SessionConfiguration()
             {
-                Driver = typeof(CustomChromeWebDriver),
+                Driver = typeof(CustomChromeHeadlessWebDriver),
                 Browser = Coypu.Drivers.Browser.Chrome,
-                AppHost = "https://globoesporte.globo.com/futebol/times/atletico-mg/", // whatever url you want
+                AppHost = "https://specflow.org/", // whatever url you want
                 Timeout = TimeSpan.FromSeconds(2)
             };
-            browser = new BrowserSession(sessionConfigurationForChrome);
-            browser.MaximiseWindow();
+            browser = new BrowserSession(sessionConfigurationForChromeHeadless);
+            browser.ResizeTo(1124, 850);
 
             return browser;
         }
