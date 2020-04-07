@@ -1,0 +1,114 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rodolfo\\source\\repos\\ProjetoFinal\\RodolfotesteandoBDDSELENIUMSPECFLOW\\TesteRodolfo\\TesteRodolfo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rodolfo\\source\\repos\\ProjetoFinal\\RodolfotesteandoBDDSELENIUMSPECFLOW\\TesteRodolfo\\TesteRodolfo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodolfo\\source\\repos\\ProjetoFinal\\RodolfotesteandoBDDSELENIUMSPECFLOW\\TesteRodolfo\\TesteRodolfo.csproj",
+        "projectName": "TesteRodolfo",
+        "projectPath": "C:\\Users\\Rodolfo\\source\\repos\\ProjetoFinal\\RodolfotesteandoBDDSELENIUMSPECFLOW\\TesteRodolfo\\TesteRodolfo.csproj",
+        "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodolfo\\source\\repos\\ProjetoFinal\\RodolfotesteandoBDDSELENIUMSPECFLOW\\TesteRodolfo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Coypu": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "DotNetSeleniumExtras.PageObjects": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[80.0.3987.10600, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.1.89, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.1.89, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[3.1.53, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
