@@ -691,5 +691,4 @@ C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\T
 C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\TesteRodolfo\obj\Debug\netcoreapp3.1\TesteRodolfo.pdb
 C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\TesteRodolfo\obj\Debug\netcoreapp3.1\TesteRodolfo.genruntimeconfig.cache
 C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\TesteRodolfo\bin\Debug\netcoreapp3.1\Coypu.dll
-C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\TesteRodolfo\obj\Debug\netcoreapp3.1\TesteRodolfo.csproj.CoreCompileInputs.cache
 C:\Users\Rodolfo\source\repos\ProjetoFinal\RodolfotesteandoBDDSELENIUMSPECFLOW\TesteRodolfo\obj\Debug\netcoreapp3.1\TesteRodolfo.csprojAssemblyReference.cache

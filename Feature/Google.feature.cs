@@ -21,7 +21,7 @@ namespace TesteRodolfo.Feature
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [TechTalk.SpecRun.FeatureAttribute("Google", Description=@"	In order to avoid silly mistakes
 	As a math idiot
-	I want to be told the sum of two numbers
+	I want to be told the sum of two numbersaaaa
 
 	  var sessionConfigurationForChrome = new SessionConfiguration()
             {
@@ -59,7 +59,7 @@ namespace TesteRodolfo.Feature
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
             TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Google", @"	In order to avoid silly mistakes
 	As a math idiot
-	I want to be told the sum of two numbers
+	I want to be told the sum of two numbersaaaa
 
 	  var sessionConfigurationForChrome = new SessionConfiguration()
             {
